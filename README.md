@@ -63,5 +63,8 @@ java -jar target/cardio_generator-1.0-SNAPSHOT.jar --patient-count 100 --output 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+##UML Models 
+
+UML diagrams for four subsystems of the CHMS are available in the [uml_models](./uml_models) directory, along with documentation which explains the design choices made for each diagram. 
 ## Project Members
 - Student ID: 6417909
